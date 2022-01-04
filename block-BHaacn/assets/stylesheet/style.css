@@ -462,7 +462,7 @@ footer{
          width: 100vw;
          background-color: rgba(35, 52, 123, 0.9);
          padding-top: 120px;
-         z-index: 9;
+         z-index: 99;
      }
      nav a{
          margin: 16px 0px;
@@ -470,7 +470,7 @@ footer{
      h1, .bars{
          position: fixed;
          top: 20px;
-         z-index: 9;
+         z-index: 99;
      }
      h1{
          left:10px;
@@ -490,7 +490,7 @@ footer{
          flex-direction: column;
      }
      .joinbtn{
-         width: 20%;
+        
          margin: 0 auto;
      }
  }
